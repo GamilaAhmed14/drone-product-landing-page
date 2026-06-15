@@ -49,6 +49,3 @@ project/
 └── README.md
 ```
 
-## Author
-
-Gamila Ahmed
