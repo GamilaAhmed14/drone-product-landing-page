@@ -40,10 +40,11 @@ This project was built to strengthen my understanding of:
 ```text
 project/
 │
-├── img/
-│   
 ├── css/
 │   └── style.css
+│
+├── img/
+│   └── project images
 │
 ├── index.html
 └── README.md
